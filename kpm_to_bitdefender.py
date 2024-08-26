@@ -60,7 +60,7 @@ def main():
         argsParser.print_help()
         exit(1)
 
-    delimiter = ";"
+    delimiter = "---"
     websiteslist = []
     applicationslist = []
     noteslist = []
